@@ -22,8 +22,8 @@ Make it happen
    <p class='bold blue'>doing?</p>
 
   <ol>
-      <li>хлебушек </li>
-      <li> </li>
+    <;I>хлеб     </li>
+      <li>молоко </li>
   </ol>
   <input> <button>
  </div>
