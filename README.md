@@ -22,7 +22,7 @@ Make it happen
    <p class='bold blue'>doing?</p>
 
   <ol>
-    <;I>хлеб     </li>
+    <li>хлеб </li>
       <li>молоко </li>
   </ol>
   <input> <button>
